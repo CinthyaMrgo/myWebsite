@@ -1,0 +1,54 @@
+body{
+    background-color: #efdbd0;
+    font-family:'Yusei Magic', sans-serif;
+}
+header{
+    background-color: #b78c8e;
+    color: #efdbd0;
+    padding: 5px 5px;
+    font-size: 150%;
+    text-align: right;
+}
+footer{
+    background-color: #b78c8e;
+    padding: 10mm;
+}
+.encabezado{
+    background-color: #b78c8e;
+    color: #efdbd0;
+    font-family:'Yusei Magic', sans-serif;
+    padding: 5mm;
+    text-align: center;
+    width: 66.9%;
+    float: right;
+    border: #b78c8e 1.2px solid;
+
+}
+pre{
+    font-family:'Yusei Magic', sans-serif;
+}
+.profile-image{
+    width: 55%;
+    border-radius: 50%;
+    border: black 5px solid;
+    display:block;
+    margin:auto;
+}
+h2{
+    color: #b78c8e;
+}
+.caja{
+    display:inline-block;
+    padding-left: 10mm;
+    
+    
+}
+.izq{
+    height: 1160px;
+    background-color: #b78c8e;
+    float:left;
+    width: 28.1%; 
+    padding: 5mm;
+    text-align: justify;
+    line-height: 7mm;
+}
